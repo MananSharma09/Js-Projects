@@ -1,20 +1,20 @@
-// let v1="Manan";
-// var v2="Hello";
-// let S="India"
+let v1="Manan";
+var v2="Hello";
+let S="India"
 
-// console.table([v1,v2,S]);
-// console.log(null>0);
-// console.log(null==0);
-// console.log(null>=0);
-// console.log(undefined==0);
-// console.log(undefined>0);
-// console.log(undefined<0);
-// const str=new String("Manan");
-// console.log(str[0]);
-// console.log(str.toUpperCase());
-// console.log(str.length);
-// console.log(str.charAt(2));
-// console.log(str.indexOf('p'));
+console.table([v1,v2,S]);
+console.log(null>0);
+console.log(null==0);
+console.log(null>=0);
+console.log(undefined==0);
+console.log(undefined>0);
+console.log(undefined<0);
+const str=new String("Manan");
+console.log(str[0]);
+console.log(str.toUpperCase());
+console.log(str.length);
+console.log(str.charAt(2));
+console.log(str.indexOf('p'));
 
 
 
