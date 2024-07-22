@@ -17,7 +17,6 @@ console.log(str.charAt(2));
 console.log(str.indexOf('p'));
 
 
-
 //!DATES
 let mydate=new Date();
 console.log(mydate.toString());
