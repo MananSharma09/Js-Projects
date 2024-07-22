@@ -19,23 +19,23 @@
 
 
 //!DATES
-// let mydate=new Date();
-// console.log(mydate.toString());
-// console.log(mydate.toISOString());
-// console.log(mydate.toLocaleDateString());
-// console.log(mydate.toDateString());
-// let mycreartedDate=new Date("01-14-2024");
-// console.log(mycreartedDate.toLocaleString());
-// let timestamp=Date.now();
-// console.log(timestamp);
-// console.log(mycreartedDate.getTime());
-// console.log(Math.floor(Date.now()/1000));
-// let newdate=new Date();
-// console.log(newdate.getMonth()+1);
-// console.log(newdate.getDay());
-// console.log(newdate.toLocaleString('default',{
-//     weekday:"long"
-// }));
+let mydate=new Date();
+console.log(mydate.toString());
+console.log(mydate.toISOString());
+console.log(mydate.toLocaleDateString());
+console.log(mydate.toDateString());
+let mycreartedDate=new Date("01-14-2024");
+console.log(mycreartedDate.toLocaleString());
+let timestamp=Date.now();
+console.log(timestamp);
+console.log(mycreartedDate.getTime());
+console.log(Math.floor(Date.now()/1000));
+let newdate=new Date();
+console.log(newdate.getMonth()+1);
+console.log(newdate.getDay());
+console.log(newdate.toLocaleString('default',{
+    weekday:"long"
+}));
 
 
 //!ARRAYS
@@ -52,4 +52,4 @@ const myarr=new Array(1,2,3,4);
 // console.log(myarr.indexOf(4));
 // const newArr=myarr.join();
 // console.log(myarr);
-// console.log(newArr);
+// console.log(newArr););
