@@ -38,17 +38,17 @@ console.log(newdate.toLocaleString('default',{
 
 
 //!ARRAYS
-// const arr1=[1,2,3,4];
+const arr1=[1,2,3,4];
 const myarr=new Array(1,2,3,4);
-// console.log(myarr[2]);
-// myarr.push(5);
-// console.log(myarr);
-// myarr.unshift(9);    //*to add element at start
-// console.log(myarr);  //* to pop the element from start
-// myarr.shift();
-// console.log(myarr);
-// console.log(myarr.includes(9))
-// console.log(myarr.indexOf(4));
-// const newArr=myarr.join();
-// console.log(myarr);
-// console.log(newArr););
+console.log(myarr[2]);
+myarr.push(5);
+console.log(myarr);
+myarr.unshift(9);    //*to add element at start
+console.log(myarr);  //* to pop the element from start
+myarr.shift();
+console.log(myarr);
+console.log(myarr.includes(9))
+console.log(myarr.indexOf(4));
+const newArr=myarr.join();
+console.log(myarr);
+console.log(newArr););
